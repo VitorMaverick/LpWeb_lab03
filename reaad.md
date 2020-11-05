@@ -1,0 +1,3 @@
+- Dashboard com link para as principais funcionalidades do site
+- Pelo menos uma página com um formulário de cadastro 
+- Uma página de listagem com links para ações de edição e remoção.
